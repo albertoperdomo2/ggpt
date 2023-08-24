@@ -1,0 +1,8 @@
+---
+gpt_role: "user"
+api_url: "https://api.openai.com/v1/chat/completions"
+api_key: ""
+max_tokens: 100
+model: "gpt-3.5-turbo"
+roles:
+  infrastructure_engineer: "You are an infrastructure engineer specialized in AWS."
