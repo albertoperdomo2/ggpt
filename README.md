@@ -37,7 +37,7 @@ The configuration for GGPT is stored in the `.config.yaml` file located in the r
 
 ## Limitations
 
-- Currently, GGPT does not support history navigation.
+- Currently, GGPT does not support full history navigation, but the session history can be check using the `history` or `hh` commands.
 - Special characters and complex text may not be handled perfectly due to the simplicity of the implementation.
 
 ## Contributing
